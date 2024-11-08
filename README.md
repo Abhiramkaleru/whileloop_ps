@@ -1,1 +1,20 @@
 # whileloop_ps
+Task:-
+
+1. check whether a given number is prime or not using while loop
+1. Sum of Even Numbers
+Write a program to find the sum of all even numbers between 1 and 50 using a while loop.
+Example: The output should be 650.
+2. Count Digits
+Write a program that takes a number as input and counts the number of digits in it using a while loop.
+Example: Input: 12345 → Output: 5
+3. Find Minimum Digit
+Write a program to find the smallest digit in a given number using a while loop.
+Example: Input: 27649 → Output: 2
+
+4. Sum of Odd Digits
+Write a program that takes a number as input and calculates the sum of all its odd digits using a while loop.
+
+Example: Input: 13579 → Output: 25
+5. Perfect Number Check
+A perfect number is a positive integer that is equal to the sum of its proper divisors (excluding itself). Write a program to check if a given number is a perfect number.
